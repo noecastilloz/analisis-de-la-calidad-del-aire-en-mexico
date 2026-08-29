@@ -54,5 +54,17 @@ Al evaluar correlaciones diarias aisladas, la falta de concurrencia entre sensor
 
 ```text
 ├── Calidad del aire en México.ipynb   # Notebook principal de Colab / EDA
-├── stations_daily.csv                  # Dataset
+├── stations_daily.csv                  # Dataset de mediciones
 └── README.md                          # Documentación del proyecto
+```
+
+---
+
+🚀 Visualización y Ejecución
+Este proyecto fue desarrollado en Google Colab y sincronizado directamente con este repositorio de GitHub.
+
+Revisión estática: Puedes explorar el código completo, las salidas y todas las visualizaciones directamente desde el archivo Calidad del aire en México.ipynb en este repositorio.
+
+Ejecución interactiva: Para ejecutar el cuaderno interactivo en la nube (modo solo lectura sin necesidad de instalar entornos locales), haz clic en el siguiente botón:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18s4Sa9ttnCxFfrIeHFfyVoFGrGwt8bgL?usp=sharing)
